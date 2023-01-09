@@ -14,8 +14,10 @@
     </div>
 
     <div class="searchContainer">
-        <input type="text" class="searchBox" name="term">
-        <input type="submit" class="searchButton" value="Chercher">
+        <form action="search.php" method="GET">
+            <input type="text" class="searchBox" name="term">
+            <input type="submit" class="searchButton" value="Chercher">
+        </form>
     </div>
 </div>
 </body>
