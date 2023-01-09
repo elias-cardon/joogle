@@ -1,20 +1,19 @@
-<h1 align="center">Bienvenue sur Jooble 👋</h1>
-<p>
-</p>
+# Joogle
 
-> C'est un clone de Google.
+C'est un clone de Google.
 
+## Auteur
 
-## Author
+- [@elias-cardon](https://www.github.com/elias-cardon)
 
-👤 **Elias Cardon**
+## 🚀 A propos de moi
+Je suis un dev web junior et je souhaite créer quelques projets pour me faire la main sur ce que j'ai déjà appris en formation et sur d'autres technos.
+## FAQ
 
-* Github: [@elias-cardon](https://github.com/elias-cardon)
-* LinkedIn: [@Elias Cardon](https://www.linkedin.com/in/elias-cardon-693a31a2/)
+#### Quels ont été les technos utilisées dans ce projet ?
 
-## Show your support
+J'ai utilisé des technos plutôt basiques. C'est-à-dire HTML, CSS, JS, PHP et MySQL.
 
-Give a ⭐️ if this project helped you!
+#### Pourquoi as-tu voulu créer un clone de Twitter ?
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+Un des projets de ma formation a été de créer une barre de recherche qui affiche une liste de résultats qui s'affine au fur et à mesure qu'on écrit le mot, mot qui est présent dans une base de données. Lorsqu'on clique sur un résultat de la liste, l'utilisateur devait tomber sur une page avec des résultats, comme avec Google ou un moteur de recherche. Je n'ai pas réussi à faire un projet abouti au moment de la formation, maintenant que j'ai les compétences, j'ai décidé de me remettre sur ce projet.
