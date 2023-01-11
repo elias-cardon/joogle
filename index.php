@@ -7,12 +7,13 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Joogle</title>
     <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="icon" type="image/png" href="./assets/images/Joogle_logo_mini.png" />
 </head>
 <body>
 <div class="wrapper indexPage">
     <div class="mainSection">
         <div class="logoContainer">
-            <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Logo">
+            <img src="./assets/images/Joogle_logo.png" alt="Logo">
         </div>
 
         <div class="searchContainer">
